@@ -13,7 +13,7 @@ Here are some tools and technologies I use:
 * **Programming Language:** PHP
 * **Framework:** Laravel
 * **Database:** MySQL / MariaDB
-* **Tools:** Visual Studio Code, Docker, Git
+* **Tools:** Visual Studio Code, Docker, Git, tailwind, alphine js
 
 Feel free to connect with me:
 
